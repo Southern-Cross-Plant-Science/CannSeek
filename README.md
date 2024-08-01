@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
  
- This repository is the CannSeek web application ([https://snp.icgrc.info/cannseek]https://snp.icgrc.info/cannseek) Eclipse project forked from the Rice SNP-Seek at [http://bitbucket.org/irridev/iric_portal](http://bitbucket.org/irridev/iric_portal). The major changes include support for multiple references, and option for the Genotype Viewer to display only basic components suitable for embedded application.
+ This repository is the CannSeek web application (https://snp.icgrc.info/cannseek) Eclipse project forked from the Rice SNP-Seek at [http://bitbucket.org/irridev/iric_portal](http://bitbucket.org/irridev/iric_portal). The major changes include support for multiple references, and option for the Genotype Viewer to display only basic components suitable for embedded application.
  
 
  Instructions for setting up, and loading data to the application is hosted at [CannSeek Backend](https://github.com/Southern-Cross-Plant-Science/CannSeekBackend) 
